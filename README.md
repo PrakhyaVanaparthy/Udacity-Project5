@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/PrakhyaVanaparthy/Udacity-Project5.svg?style=svg)](https://app.circleci.com/pipelines/github/PrakhyaVanaparthy/Udacity-Project5)
+
 
 ## Settingup the Environment
 
