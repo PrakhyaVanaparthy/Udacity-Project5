@@ -1,5 +1,7 @@
 [![CircleCI](https://circleci.com/gh/PrakhyaVanaparthy/Udacity-Project5.svg?style=svg)](https://circleci.com/gh/PrakhyaVanaparthy/Udacity-Project5)
 
+Explains how to containerize and deploy a machine learning application using Kubernetes.
+
 ## Settingup the Environment
 
 1. Create a virtualenv and activate the environment
