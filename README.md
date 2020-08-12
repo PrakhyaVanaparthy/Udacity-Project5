@@ -13,3 +13,15 @@
 3. Dockerimage Upload : `./upload_docker.sh` (contains steps to upload docker image to docker hub)
 4. Run in Kubernetes:  `./run_kubernetes.sh` (contains steps to run the docker image and forward port 8000 to 80)
 
+
+### Installation steps for Kubelet and Minikube
+
+For Installation of minikube follow steps mentioned in the link:
+https://kubernetes.io/docs/tasks/tools/install-minikube/
+
+For kubelet installation :
+https://kubernetes.io/docs/tasks/tools/install-kubectl/
+
+NOTE: In order to start minikube, docker should be installed before hand.
+
+
